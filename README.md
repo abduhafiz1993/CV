@@ -59,7 +59,7 @@ Jimma University, Jimma City, Ethiopia
 
 ## Languages
 
-- [List languages and proficiency levels, e.g., English (Fluent)
+- English (Fluent)
 - Amharic (Native)
 
 ---
